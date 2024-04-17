@@ -14,7 +14,8 @@ Feel free to try other sdxl models but for optimum performance I recommend Proto
 
 2. To load a preset into Deforum, copy the file path of the preset saved to your drive and paste it into the "Settings File Path" box for Deforum, then click "Load All Settings".
 
-[Alt text] (https://github.com/S4f3tyMarc/Presets/blob/main/Settings-path.png)
+![Alt text](https://github.com/S4f3tyMarc/Presets/blob/main/Settings-path.png)
+
 
 
 
