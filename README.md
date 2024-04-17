@@ -22,7 +22,6 @@ Feel free to try other sdxl models but for optimum performance I recommend Proto
 
 4. It's a good idea to now save the preset with the new file path in place, so the next time you load up the preset, everything will be ready to run.
 
-I've included all my 15s and 30s presets, but not all the presets were mine, so not all will be available right now. There are a few new "Classic 3D" presets included, which are different from the 3D preset in D-Studio but do the same thing.
 
 ## Please Note!
 Attempting to change the settings can result in undesired effects, such as overbaking and saturation of your final video. Only attempt to adjust the presets if you are experienced with Deforum. Even then, you may find it hard to make changes, as these presets work in a narrow sweet spot.
