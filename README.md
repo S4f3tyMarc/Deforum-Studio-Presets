@@ -14,7 +14,8 @@ Feel free to try other sdxl models but for optimum performance I recommend Proto
 
 2. To load a preset into Deforum, copy the file path of the preset saved to your drive and paste it into the "Settings File Path" box for Deforum, then click "Load All Settings".
 
-![Load-Settings]([https://github.com/your_username/your_repository/raw/main/path/to/your/image.png](https://github.com/S4f3tyMarc/Presets/blob/main/Settings-path.png))
+[Alt text] (https://github.com/S4f3tyMarc/Presets/blob/main/Settings-path.png)
+
 
 
 3. Next, navigate to the "Init" tab and the "Video Init" tab. You'll see a file path to one of the Hybrid Video input files. 
