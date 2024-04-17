@@ -1,4 +1,4 @@
-#**Deforum Presets by Safety Marc**
+**#Deforum Presets by Safety Marc**
 
 If you want to achieve extra smooth, less flickery Deforum animations, you've come to the right place. Here are all the presets I've created for the Deforum Studio. They can be used with the Deforum extension for Automatic 1111 Stable Diffusion WebUI or WebUI Forge, they don’t not work with the notebook or comfy nodes. 
 
