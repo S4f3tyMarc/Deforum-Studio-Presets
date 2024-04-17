@@ -10,11 +10,14 @@ Feel free to try other sdxl models but for optimum performance I recommend Proto
 ## Instructions for Use:
 1. Download the presets above along with the Hybrid input videos linked below. The majority of presets will not work without them. (All presets named "Classic" do not use hybrid video inputs).
    
-   Hybrid Videos: [Link to hybrid video files]
+   Hybrid Videos: [download](https://drive.google.com/drive/folders/18R7o8yu-buv-28H54kxJT9nKUAhk6dQW?usp=sharing).
 
 2. To load a preset into Deforum, copy the file path of the preset saved to your drive and paste it into the "Settings File Path" box for Deforum, then click "Load All Settings".
 
-3. Next, navigate to the "Init" tab and the "Video Init" tab. You'll see a file path to one of the Hybrid Video input files. You need to replace the `C:/Your/File/Path/Here/` with the path to the video files you saved on your computer, while keeping the video file name in place. Example: `C:/Ai/Hybrid-Video/Kaleidoscope2-12fps.mp4`
+3. Next, navigate to the "Init" tab and the "Video Init" tab. You'll see a file path to one of the Hybrid Video input files. 
+You need to replace the `C:/Your/File/Path/Here/` with the path to the video files you saved on your computer, while keeping the video file name in place. 
+
+Example: `C:/Ai/Hybrid-Video/Kaleidoscope2-12fps.mp4`
 
 4. It's a good idea to now save the preset with the new file path in place, so the next time you load up the preset, everything will be ready to run.
 
