@@ -16,7 +16,7 @@ Feel free to try other sdxl models but for optimum performance I recommend Proto
 
 3. Next, navigate to the "Init" tab and the "Video Init" tab. You'll see a file path to one of the Hybrid Video input files. 
 
-  ** You need to replace the `C:/Your/File/Path/Here/` with the path to the video files you saved on your computer, while keeping the video file name in place. 
+  **You need to replace** `C:/Your/File/Path/Here/` with the path to the video files you saved on your computer, while keeping the video file name in place. 
 
     Example: `C:/Ai/Hybrid-Video/Kaleidoscope2-12fps.mp4`
 
