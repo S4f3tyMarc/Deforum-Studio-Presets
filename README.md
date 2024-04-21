@@ -7,6 +7,14 @@ You can download it [here](https://civitai.com/models/125703/protovision-xl-high
 
 Feel free to try other sdxl models but for optimum performance I recommend Protovision XL. 
 
+For optimal performance use these resolutions: 
+
+Landscape: 1024x576
+Portrait: 576x1024
+Sqaure: 768x768
+
+You can go higher but this will greatly slow down generation time. Using lower resolution will result in lower or bad quality outputs. 
+
 ## Instructions for Use:
 1. Download the presets above along with the Hybrid input videos linked below. The majority of presets will not work without them. (All presets named "Classic" do not use hybrid video inputs).
    
